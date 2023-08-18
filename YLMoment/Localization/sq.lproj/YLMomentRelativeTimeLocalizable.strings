@@ -10,12 +10,12 @@
 "past"   = "%@ me parë";
 "s"      = "disa sekonda";
 "m"      = "një minut";
-"mm"     = "%d minuta";
+"mm"     = "%@ minuta";
 "h"      = "një orë";
-"hh"     = "%d orë";
+"hh"     = "%@ orë";
 "d"      = "një ditë";
-"dd"     = "%d ditë";
+"dd"     = "%@ ditë";
 "M"      = "një muaj";
-"MM"     = "%d muaj";
+"MM"     = "%@ muaj";
 "y"      = "një vit";
-"yy"     = "%d vite";
+"yy"     = "%@ vite";
