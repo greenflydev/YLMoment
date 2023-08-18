@@ -10,12 +10,12 @@
 "past"   = "vor %@";
 "s"      = "ein paar Sekunden";
 "m"      = "einer Minute";
-"mm"     = "%d Minuten";
+"mm"     = "%@ Minuten";
 "h"      = "einer Stunde";
-"hh"     = "%d Stunden";
+"hh"     = "%@ Stunden";
 "d"      = "einem Tag";
-"dd"     = "%d Tagen";
+"dd"     = "%@ Tagen";
 "M"      = "einem Monat";
-"MM"     = "%d Monate";
+"MM"     = "%@ Monate";
 "y"      = "einem Jahr";
-"yy"     = "%d Jahren";
+"yy"     = "%@ Jahren";
