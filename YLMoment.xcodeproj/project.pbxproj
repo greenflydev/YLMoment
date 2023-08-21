@@ -26,6 +26,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		7E0BD5102A93E1720095A954 /* ar */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ar; path = ar.lproj/YLMomentRelativeTimeLocalizable.strings; sourceTree = "<group>"; };
 		B857049C1DCD11E4000188A0 /* YLMoment.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = YLMoment.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		B857049F1DCD11E4000188A0 /* YLMoment.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = YLMoment.h; sourceTree = "<group>"; };
 		B85704A01DCD11E4000188A0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -164,6 +165,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				de,
 				es,
@@ -174,6 +176,7 @@
 				sq,
 				vi,
 				zh,
+				ar,
 			);
 			mainGroup = B85704921DCD11E4000188A0;
 			productRefGroup = B857049D1DCD11E4000188A0 /* Products */;
@@ -227,6 +230,7 @@
 				B85704CC1DCD12A4000188A0 /* sq */,
 				B85704CD1DCD12A4000188A0 /* vi */,
 				B85704CE1DCD12A4000188A0 /* zh */,
+				7E0BD5102A93E1720095A954 /* ar */,
 			);
 			name = YLMomentRelativeTimeLocalizable.strings;
 			path = Localization;
